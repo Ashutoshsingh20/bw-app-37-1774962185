@@ -1,7 +1,7 @@
 {
   "name": "bw-app-37-1774962185",
   "version": "1.0.0",
-  "description": "Nimbus Core monochrome ops dashboard",
+  "description": "Delta Prism monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
